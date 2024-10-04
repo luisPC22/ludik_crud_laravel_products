@@ -22,6 +22,8 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 
 ### 1. Clonar el repositorio
 
+```bash
+
 Clona el repositorio en tu máquina local:
 
 git clone https://github.com/luisPC22/ludik_crud_laravel_products.git 
